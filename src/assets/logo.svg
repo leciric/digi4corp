@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="150" viewBox="125 175 250 150">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 60px;
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 300;
+      }
+
+      .cls-1 {
+        fill: #0198d8;
+      }
+
+      .cls-2 {
+        fill: #a65089;
+      }
+    </style>
+  </defs>
+  <text id="digi" class="cls-1" transform="translate(212.834 274.945) scale(1.597)"><tspan x="0">digi</tspan></text>
+  <text id="_4" data-name="4" class="cls-2" transform="translate(319.738 300.86) scale(2.366)"><tspan x="0">4</tspan></text>
+  <text id="corp" class="cls-2" transform="translate(309.79 290.36) scale(0.373)"><tspan x="0">corp</tspan></text>
+</svg>
