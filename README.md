@@ -1,6 +1,7 @@
 # 💻 digi4corp
 
-digi4corp is a landing page developed just to practice my skills.
+digi4corp is a fake company just to ilustrate this project.
+Obs..: Developed just to practice my skills.
 
 ### 🤖 Preview 
 
